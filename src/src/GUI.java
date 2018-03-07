@@ -284,6 +284,7 @@ public class GUI extends javax.swing.JFrame {
         }
         Plugboard.setModel(dlm);
     }//GEN-LAST:event_DisconnectActionPerformed
+
     /**
      * Resets rotor positions
      * @param evt reset button is pressed
